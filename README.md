@@ -30,3 +30,21 @@ I'm a BCA student interested in programming and software development.
 ---
 
 Thanks for visiting my profile! 😊
+
+## 🚀 Skills & Technologies
+
+### Programming Languages
+- Java (Learning)
+- JavaScript (Learning)
+
+### Web Development
+- HTML (Learning)
+- CSS (Learning)
+
+### Computer Science
+- Data Structures & Algorithms (Learning)
+
+### Developer Tools
+- Visual Studio Code
+- Git
+- GitHub
